@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi there, I'm Haritha 👋</h1>
+<h1 align="center"> I'm Haritha Kaki</h1>
 <h3 align="center">Data Analytics Professional | Python · SQL · Power BI · Machine Learning</h3>
 
 <p align="center">
