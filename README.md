@@ -115,7 +115,6 @@ Data Analytics professional with hands-on consulting internship experience at **
 - Data Science Certification — IABAC
 - GenAI Powered Data Analytics — TATA
 - Python for Data Analyst — Value Laden
-- AI-Integrated Full Stack Web Development — Udemy
 - Advanced Excel — Udemy
 - 100+ SQL problems solved on LeetCode (joins, subqueries, aggregations, CTEs, window functions)
 
