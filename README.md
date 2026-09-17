@@ -1,5 +1,6 @@
 ## Hi there 👋
-<h1 align="center"> I'm Haritha Kaki</h1>
+
+<h1 align="center">Hi there, I'm Haritha 👋</h1>
 <h3 align="center">Data Analytics Professional | Python · SQL · Power BI · Machine Learning</h3>
 
 <p align="center">
@@ -72,23 +73,10 @@ Data Analytics professional with hands-on consulting internship experience at **
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Streak
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=haritha090&show_icons=true&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haritha090&theme=highcontrast&hide_border=false" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haritha090&layout=compact&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" height="165" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=haritha090&theme=onedark&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </p>
 
 ---
@@ -115,6 +103,7 @@ Data Analytics professional with hands-on consulting internship experience at **
 - Data Science Certification — IABAC
 - GenAI Powered Data Analytics — TATA
 - Python for Data Analyst — Value Laden
+- AI-Integrated Full Stack Web Development — Udemy
 - Advanced Excel — Udemy
 - 100+ SQL problems solved on LeetCode (joins, subqueries, aggregations, CTEs, window functions)
 
@@ -125,3 +114,4 @@ Data Analytics professional with hands-on consulting internship experience at **
 </p>
 
 <p align="center"><i>Thanks for stopping by — let's connect over data! 🚀</i></p>
+
